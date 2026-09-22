@@ -1,0 +1,304 @@
+{
+  "recommendationId": "INFY",
+  "defaultWatchlistIds": ["TCS", "TITAN", "TATAMOTORS", "SUNPHARMA"],
+  "stocks": [
+    {
+      "id": "INFY",
+      "ticker": "INFY",
+      "name": "Infosys",
+      "price": 1620.0,
+      "changePercent": -2.1,
+      "score": 81,
+      "previousScore": 68,
+      "inPortfolio": false,
+      "recommendationInsight": "Just entered your buy zone — results beat estimates and the price dipped. Fits your profile now.",
+      "summaryQuote": "Solid business, price a bit rich right now.",
+      "statusTag": "OK to hold · add on dips",
+      "summaryDescription": "Strong IT franchise with steady cash flows. Valuation is elevated, so prefer buying on weakness.",
+      "scoreBreakdown": {
+        "fundamentals": {
+          "score": 82,
+          "detail": "Profit growth, debt levels, cash flows. Matlab: is the business itself healthy? Yes — profits rising, low debt."
+        },
+        "technicals": {
+          "score": 68,
+          "detail": "Price trends and momentum. Momentum is soft — the price is below its recent trend."
+        },
+        "news": {
+          "score": 72,
+          "detail": "News coverage, corporate filings and social sentiment. Mostly positive coverage this month."
+        }
+      },
+      "peers": [
+        { "name": "Infosys", "score": 81, "pe": 24.5, "roe": 28.0, "isSelf": true },
+        { "name": "TCS", "score": 76, "pe": 28.1, "roe": 45.0, "isSelf": false },
+        { "name": "HCL Tech", "score": 74, "pe": 22.0, "roe": 24.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["1.53L Cr", "1.62L Cr", "1.71L Cr"],
+        "netProfit": ["26.2K Cr", "27.1K Cr", "28.0K Cr"],
+        "opMargin": ["21%", "21%", "20%"]
+      },
+      "financialInsight": "Profit roughly flat (~6%/yr) — growth has paused, so we're not overpaying for it.",
+      "eventTitle": "No big events this month",
+      "eventTag": "quiet",
+      "eventDescription": "No major filings or results due soon. Last checked: 2 days ago.",
+      "forYouInsight": "For you: fits your Balanced Grower profile · 3+ yr horizon ✓ · 1 share suggested (≈ ₹1,620)"
+    },
+    {
+      "id": "TCS",
+      "ticker": "TCS",
+      "name": "Tata Consultancy",
+      "price": 3480.0,
+      "changePercent": -0.6,
+      "score": 76,
+      "previousScore": 74,
+      "inPortfolio": false,
+      "recommendationInsight": "Quality compounder — wait for a better entry if valuation stays stretched.",
+      "summaryQuote": "Solid business, price a bit rich right now.",
+      "statusTag": "OK to hold · add on dips",
+      "summaryDescription": "India's largest IT services firm. Reliable cash generation, but near-term growth is muted.",
+      "scoreBreakdown": {
+        "fundamentals": {
+          "score": 82,
+          "detail": "Profit growth, debt levels, cash flows. Matlab: is the business itself healthy? Yes — profits rising, low debt."
+        },
+        "technicals": {
+          "score": 68,
+          "detail": "Price trends and momentum. Momentum is soft — the price is below its recent trend."
+        },
+        "news": {
+          "score": 72,
+          "detail": "News coverage, corporate filings and social sentiment. Mostly positive coverage this month."
+        }
+      },
+      "peers": [
+        { "name": "TCS", "score": 76, "pe": 28.1, "roe": 45.0, "isSelf": true },
+        { "name": "Infosys", "score": 81, "pe": 24.5, "roe": 28.0, "isSelf": false },
+        { "name": "Wipro", "score": 62, "pe": 19.4, "roe": 15.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["2.41L Cr", "2.55L Cr", "2.70L Cr"],
+        "netProfit": ["46.0K Cr", "48.5K Cr", "51.0K Cr"],
+        "opMargin": ["25%", "24%", "24%"]
+      },
+      "financialInsight": "Margins stay healthy, but growth is steady rather than explosive.",
+      "eventTitle": "No big events this month",
+      "eventTag": "quiet",
+      "eventDescription": "Quiet tape. Last checked: 1 day ago.",
+      "forYouInsight": "For you: fits your Balanced Grower profile · 3+ yr horizon ✓ · 1 share suggested (≈ ₹3,480)"
+    },
+    {
+      "id": "TITAN",
+      "ticker": "TITAN",
+      "name": "Titan Company",
+      "price": 3390.0,
+      "changePercent": -0.3,
+      "score": 76,
+      "previousScore": 71,
+      "inPortfolio": false,
+      "recommendationInsight": "Brand-led growth story — watch jewellery demand and valuation.",
+      "summaryQuote": "Strong brand, premium valuation.",
+      "statusTag": "Watch closely",
+      "summaryDescription": "Dominant jewellery and watches franchise. Growth intact, but priced for excellence.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 78, "detail": "Healthy brand economics and steady retail expansion." },
+        "technicals": { "score": 70, "detail": "Price consolidating near recent highs." },
+        "news": { "score": 75, "detail": "Mostly constructive coverage on festive demand." }
+      },
+      "peers": [
+        { "name": "Titan", "score": 76, "pe": 85.0, "roe": 28.0, "isSelf": true },
+        { "name": "Kalyan Jewellers", "score": 64, "pe": 55.0, "roe": 18.0, "isSelf": false },
+        { "name": "PNJ", "score": 60, "pe": 48.0, "roe": 16.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["51K Cr", "58K Cr", "65K Cr"],
+        "netProfit": ["3.5K Cr", "4.0K Cr", "4.6K Cr"],
+        "opMargin": ["11%", "11%", "12%"]
+      },
+      "financialInsight": "Revenue compounding well; valuation remains the main debate.",
+      "eventTitle": "Festive season watch",
+      "eventTag": "seasonal",
+      "eventDescription": "Jewellery demand pickup expected around festivals. Last checked: 3 days ago.",
+      "forYouInsight": "For you: fits your Growth Seeker profile · long horizon preferred · size carefully"
+    },
+    {
+      "id": "TATAMOTORS",
+      "ticker": "TATAMOTORS",
+      "name": "Tata Motors",
+      "price": 978.0,
+      "changePercent": 1.4,
+      "score": 71,
+      "previousScore": 65,
+      "inPortfolio": false,
+      "recommendationInsight": "Auto cycle improving — JLR and EV narrative still matter.",
+      "summaryQuote": "Turnaround progressing, cyclical risks remain.",
+      "statusTag": "OK to accumulate",
+      "summaryDescription": "Passenger + commercial vehicles with global JLR exposure. Better balance sheet than before.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 70, "detail": "Margins improved; debt is more manageable." },
+        "technicals": { "score": 74, "detail": "Uptrend intact after recent bounce." },
+        "news": { "score": 68, "detail": "Mixed newsflow on EV ramp and JLR demand." }
+      },
+      "peers": [
+        { "name": "Tata Motors", "score": 71, "pe": 12.5, "roe": 22.0, "isSelf": true },
+        { "name": "M&M", "score": 77, "pe": 28.0, "roe": 18.0, "isSelf": false },
+        { "name": "Maruti", "score": 69, "pe": 26.0, "roe": 14.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["4.3L Cr", "4.6L Cr", "4.9L Cr"],
+        "netProfit": ["31K Cr", "28K Cr", "30K Cr"],
+        "opMargin": ["9%", "8%", "9%"]
+      },
+      "financialInsight": "Cyclical earnings — don't treat peak profits as permanent.",
+      "eventTitle": "Model launches ahead",
+      "eventTag": "watch",
+      "eventDescription": "Upcoming launches may move sentiment. Last checked: 4 days ago.",
+      "forYouInsight": "For you: fits a Growth Seeker sleeve · keep position size modest"
+    },
+    {
+      "id": "SUNPHARMA",
+      "ticker": "SUNPHARMA",
+      "name": "Sun Pharma",
+      "price": 1712.0,
+      "changePercent": 0.6,
+      "score": 77,
+      "previousScore": 73,
+      "inPortfolio": true,
+      "recommendationInsight": "Specialty pharma strength supports a core holding.",
+      "summaryQuote": "Quality pharma franchise with steady specialty mix.",
+      "statusTag": "Core hold",
+      "summaryDescription": "India's largest pharma company with specialty and generics mix.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 80, "detail": "Specialty mix and margins look healthy." },
+        "technicals": { "score": 72, "detail": "Gentle uptrend with shallow pullbacks." },
+        "news": { "score": 75, "detail": "Mostly constructive US specialty news." }
+      },
+      "peers": [
+        { "name": "Sun Pharma", "score": 77, "pe": 36.0, "roe": 16.0, "isSelf": true },
+        { "name": "Dr Reddy's", "score": 72, "pe": 22.0, "roe": 18.0, "isSelf": false },
+        { "name": "Cipla", "score": 70, "pe": 28.0, "roe": 14.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["48K Cr", "52K Cr", "56K Cr"],
+        "netProfit": ["9.6K Cr", "10.5K Cr", "11.4K Cr"],
+        "opMargin": ["26%", "26%", "27%"]
+      },
+      "financialInsight": "Specialty growth is doing the heavy lifting.",
+      "eventTitle": "Quiet month",
+      "eventTag": "quiet",
+      "eventDescription": "No major catalysts this month. Last checked: 2 days ago.",
+      "forYouInsight": "For you: fits Balanced Grower · suitable as a core pharma holding"
+    },
+    {
+      "id": "BAJFINANCE",
+      "ticker": "BAJFINANCE",
+      "name": "Bajaj Finance",
+      "price": 7240.0,
+      "changePercent": -1.1,
+      "score": 62,
+      "previousScore": 66,
+      "inPortfolio": false,
+      "recommendationInsight": "High-quality NBFC, but valuation and credit cycle need respect.",
+      "summaryQuote": "Great franchise, demanding price.",
+      "statusTag": "Wait for better levels",
+      "summaryDescription": "Market-leading retail NBFC. Growth engine is strong; entry price matters.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 74, "detail": "Strong franchise and underwriting track record." },
+        "technicals": { "score": 55, "detail": "Under pressure after recent drawdown." },
+        "news": { "score": 58, "detail": "Some caution around growth moderation." }
+      },
+      "peers": [
+        { "name": "Bajaj Finance", "score": 62, "pe": 30.0, "roe": 20.0, "isSelf": true },
+        { "name": "HDFC Bank", "score": 74, "pe": 18.0, "roe": 16.0, "isSelf": false },
+        { "name": "Kotak Bank", "score": 68, "pe": 17.0, "roe": 13.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["55K Cr", "64K Cr", "74K Cr"],
+        "netProfit": ["14K Cr", "16K Cr", "19K Cr"],
+        "opMargin": ["—", "—", "—"]
+      },
+      "financialInsight": "Growth remains strong; watch asset quality and valuation.",
+      "eventTitle": "Credit data watch",
+      "eventTag": "watch",
+      "eventDescription": "Next collection/disbursement prints may move the stock. Last checked: 1 day ago.",
+      "forYouInsight": "For you: only if Growth Seeker and you can hold through volatility"
+    },
+    {
+      "id": "RELIANCE",
+      "ticker": "RELIANCE",
+      "name": "Reliance Industries",
+      "price": 2910.0,
+      "changePercent": -0.8,
+      "score": 69,
+      "previousScore": 70,
+      "inPortfolio": false,
+      "recommendationInsight": "Conglomerate with oil-to-retail-to-digital mix — patience required.",
+      "summaryQuote": "Complex business, long-term relevance.",
+      "statusTag": "Hold / staggered buy",
+      "summaryDescription": "Energy, retail, and telecom conglomerate. Multiple levers, slower near-term clarity.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 72, "detail": "Diversified cash flows across segments." },
+        "technicals": { "score": 65, "detail": "Range-bound price action." },
+        "news": { "score": 70, "detail": "Steady flow of retail and Jio updates." }
+      },
+      "peers": [
+        { "name": "Reliance", "score": 69, "pe": 26.0, "roe": 10.0, "isSelf": true },
+        { "name": "ONGC", "score": 58, "pe": 8.0, "roe": 14.0, "isSelf": false },
+        { "name": "ITC", "score": 73, "pe": 27.0, "roe": 28.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["9.0L Cr", "9.6L Cr", "10.2L Cr"],
+        "netProfit": ["69K Cr", "74K Cr", "80K Cr"],
+        "opMargin": ["12%", "12%", "13%"]
+      },
+      "financialInsight": "Scale is huge; catalysts are uneven across segments.",
+      "eventTitle": "Segment updates",
+      "eventTag": "ongoing",
+      "eventDescription": "Retail/Jio commentary continues to drive narrative. Last checked: 2 days ago.",
+      "forYouInsight": "For you: suitable as a diversified core holding for Balanced Growers"
+    },
+    {
+      "id": "HDFCBANK",
+      "ticker": "HDFCBANK",
+      "name": "HDFC Bank",
+      "price": 1648.0,
+      "changePercent": 0.4,
+      "score": 74,
+      "previousScore": 72,
+      "inPortfolio": false,
+      "recommendationInsight": "Private bank bellwether — good core holding on reasonable dips.",
+      "summaryQuote": "Franchise quality still stands out.",
+      "statusTag": "Core accumulate",
+      "summaryDescription": "India's leading private bank. Merger digestion ongoing; long-term compounding intact.",
+      "scoreBreakdown": {
+        "fundamentals": { "score": 79, "detail": "Strong deposit franchise and underwriting culture." },
+        "technicals": { "score": 70, "detail": "Stabilizing after a long base." },
+        "news": { "score": 71, "detail": "Coverage focused on margin and loan growth recovery." }
+      },
+      "peers": [
+        { "name": "HDFC Bank", "score": 74, "pe": 18.0, "roe": 16.0, "isSelf": true },
+        { "name": "ICICI Bank", "score": 78, "pe": 18.5, "roe": 17.0, "isSelf": false },
+        { "name": "Kotak Bank", "score": 68, "pe": 17.0, "roe": 13.0, "isSelf": false }
+      ],
+      "financials": {
+        "years": ["FY24", "FY25", "FY26"],
+        "revenue": ["—", "—", "—"],
+        "netProfit": ["64K Cr", "70K Cr", "78K Cr"],
+        "opMargin": ["—", "—", "—"]
+      },
+      "financialInsight": "Focus on NIMs and deposit traction over the next few quarters.",
+      "eventTitle": "Results season",
+      "eventTag": "upcoming",
+      "eventDescription": "Next quarter print will set near-term tone. Last checked: 1 day ago.",
+      "forYouInsight": "For you: core bank holding for Careful Saver and Balanced Grower profiles"
+    }
+  ]
+}
